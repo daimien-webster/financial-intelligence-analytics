@@ -322,14 +322,6 @@ Potential extensions to this framework:
    - Webhook notifications for alerts
    - Integration with existing regulatory systems
 
-## Author Background
-
-This framework was developed based on experience:
-- Leading national data teams at AUSTRAC (2016-2019)
-- Designing data quality programmes for 14,000+ regulated entities
-- Building cloud-based analytics platforms for multi-agency collaboration
-- Supporting law enforcement investigations with financial intelligence
-
 ## License
 
 This demonstration code is provided for evaluation purposes. All code is original work created specifically for demonstrating data science capabilities relevant to financial intelligence and regulatory operations.
